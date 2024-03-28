@@ -9,23 +9,20 @@ assignees: ''
 
 Software:
 
-Name: Outlook Client
-Version: 1.5
+Name: Flipkart Online Shopping Website
+Version: 2.0
 Bug Description:
 
-The email client fails to send messages with attachments larger than 10MB.
+The "Add to Cart" button is not functioning properly on the product detail page.
 Steps to Reproduce:
 
-Open the Outlook.
-Compose a new email.
-Attach a file larger than 10MB.
-Attempt to send the email.
-Observe that the email fails to send and remains in the outbox.
+Navigate to the Flipkart Online Shopping Website.
+Search for "Smartphone Model X" in the search bar.
+Click on the product to view its details.
+Attempt to click the "Add to Cart" button.
+Observe that the button does not respond to clicks or adds the item inconsistently.
 Additional Information:
 
-Device: Windows laptop
+Device: Desktop computer
 Operating System: Windows 10
-
-Severity Label: Medium
-
-Justification: While this bug affects the ability to send emails with large attachments, it does not completely prevent users from using the email client. However, it can be frustrating for users who frequently send large files via email. The impact is not as severe as a complete app crash or loss of data, hence a medium severity label is appropriate.
+Browser: Google Chrome (Version 98.0.4758.102)
