@@ -46,4 +46,3 @@ Additional Information:
 
 Device: Windows laptop
 Operating System: Windows 10
-
